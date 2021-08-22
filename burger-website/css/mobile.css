@@ -1,0 +1,29 @@
+.items .text {
+  display: none;
+}
+
+.navbar ul {
+  display: flex;
+  margin-left: -1px;
+}
+
+.slider {
+  margin-top: -2rem;
+}
+.icons {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.left-side {
+  margin-left: 1px;
+}
+
+.left-side i {
+  margin: 1rem 0;
+}
+
+.right-side i {
+  margin: 0.5rem 0;
+}
